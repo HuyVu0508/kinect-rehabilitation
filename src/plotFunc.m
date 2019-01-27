@@ -1,0 +1,6 @@
+function plotFunc(motion)
+    plot(1:size(motion,1),motion(:,1),'-o',    1:size(motion,1),motion(:,2),'--',    1:size(motion,1),motion(:,3),':',    1:size(motion,1),motion(:,4),'-.',    1:size(motion,1),motion(:,5),'-+',    1:size(motion,1),motion(:,6),'--+',    1:size(motion,1),motion(:,7),':+',    1:size(motion,1),motion(:,8),'-*',    1:size(motion,1),motion(:,9),':*',    1:size(motion,1),motion(:,10),'--*',    1:size(motion,1),motion(:,11),'-s',    1:size(motion,1),motion(:,12),'--s',    1:size(motion,1),motion(:,13),':s',    1:size(motion,1),motion(:,14),'-x',    1:size(motion,1),motion(:,15),'--x',    1:size(motion,1),motion(:,16),':x'       );
+    legend('(1) Upper left arm','(2) Upper right arm','(3) Lower left arm','(4) Lower right arm','(5) Thigh left','(6) Thigh right','(7) Lower leg left','(8) Lower leg right','(9) Upper left arm 2','(10) Upper right arm 2','(11) Lower left arm 2','(12) Lower right arm 2','(13) Thigh left 2','(14) Thigh right 2','(15) Lower leg left 2','(16) Lower leg right 2');
+
+
+end
