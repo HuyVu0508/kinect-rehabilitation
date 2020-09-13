@@ -6,7 +6,7 @@ Physical therapy is intensely used in medical treatments to help patients regain
 
 [Figure]
 <p align="center">
-  <img  src="../master/illustrations/sample_practices.jpg">
+  <img width="500" src="../master/illustrations/sample_practices.jpg">
 </p>
 
 Therefore, if we can build a home system that can replace the role of the therapist in helping with the rehabilitation process, that would greatly help patients. It will reduce the cost of traveling for both patients and therapists, patients can also practice any time anywhere without the need to match the therapists' busy schedule.
