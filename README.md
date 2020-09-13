@@ -21,7 +21,7 @@ The first step is designing a pipeline for efficiently recording the sample prac
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/movement_signal.jpg">
+  <img width="500" src="../master/illustrations/movement_signal.jpg">
 </p>
 
 #### Recording patients' practices
@@ -31,14 +31,14 @@ The figure below illustrates the Dynamic Time Warping algorithm used to process 
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/DTW.jpg">
+  <img width="500"  src="../master/illustrations/DTW.jpg">
 </p>
 
 The figure below illustrates the module's pipeline for recording patients' practice and evaluating it on-the-fly. Feedbacks are given for the patients to improve their performances.
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/record_evaluate_pipipeline.jpg">
+  <img width="500" src="../master/illustrations/record_evaluate_pipipeline.jpg">
 </p>
 
 #### Comparisons and Rating practices quality
@@ -46,14 +46,14 @@ Besides evaluating the patients' performance in real-time, we also want to evalu
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/error_evaluation.jpg">
+  <img width="500" src="../master/illustrations/error_evaluation.jpg">
 </p>
 
 The table below illustrates how well the system evaluates correctly a movement using the described rules.
 
 [table]
 <p align="center">
-  <img  src="../master/illustrations/evaluation_model.jpg">
+  <img width="500" src="../master/illustrations/evaluation_model.jpg">
 </p>
 
 #### Leading and real-time feedback using Augmented Reality
@@ -61,12 +61,12 @@ To help the patients' with their practices. We develop an AR system to help lead
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/ar.jpg">
+  <img width="500" src="../master/illustrations/ar.jpg">
 </p>
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/local_DTW.jp">
+  <img width="500" src="../master/illustrations/local_DTW.jp">
 </p>
 
 #### User interface
@@ -74,7 +74,7 @@ We develop the user interface with the objective for simplicity and informative 
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/heatmap.png">
+  <img width="500" src="../master/illustrations/heatmap.png">
 </p>
 
 For more detailed information, please look at the thesis.pdf file included in this repository.
