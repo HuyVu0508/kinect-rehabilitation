@@ -6,7 +6,7 @@ Physical therapy is intensely used in medical treatments to help patients regain
 
 [Figure]
 <p align="center">
-  <img  src="../master/illustrations/heatmap.png">
+  <img  src="../master/illustrations/sample_practices.jpg">
 </p>
 
 Therefore, if we can build a home system that can replace the role of the therapist in helping with the rehabilitation process, that would greatly help patients. It will reduce the cost of traveling for both patients and therapists, patients can also practice any time anywhere without the need to match the therapists' busy schedule.
@@ -21,7 +21,7 @@ The first step is designing a pipeline for efficiently recording the sample prac
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/heatmap.png">
+  <img  src="../master/illustrations/movement_signal.jpg">
 </p>
 
 #### Recording patients' practices
@@ -31,14 +31,14 @@ The figure below illustrates the Dynamic Time Warping algorithm used to process 
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/heatmap.png">
+  <img  src="../master/illustrations/DTW.jpg">
 </p>
 
 The figure below illustrates the module's pipeline for recording patients' practice and evaluating it on-the-fly. Feedbacks are given for the patients to improve their performances.
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/heatmap.png">
+  <img  src="../master/illustrations/record_evaluate_pipipeline.jpg">
 </p>
 
 #### Comparisons and Rating practices quality
@@ -46,14 +46,14 @@ Besides evaluating the patients' performance in real-time, we also want to evalu
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/heatmap.png">
+  <img  src="../master/illustrations/error_evaluation.jpg">
 </p>
 
 The table below illustrates how well the system evaluates correctly a movement using the described rules.
 
 [table]
 <p align="center">
-  <img  src="../master/illustrations/heatmap.png">
+  <img  src="../master/illustrations/evaluation_model.jpg">
 </p>
 
 #### Leading and real-time feedback using Augmented Reality
@@ -61,12 +61,12 @@ To help the patients' with their practices. We develop an AR system to help lead
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/heatmap.png">
+  <img  src="../master/illustrations/ar.jpg">
 </p>
 
 [figure]
 <p align="center">
-  <img  src="../master/illustrations/heatmap.png">
+  <img  src="../master/illustrations/local_DTW.jp">
 </p>
 
 #### User interface
