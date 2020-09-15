@@ -96,4 +96,4 @@ We develop the user interface with the objective for simplicity and informative 
     <em>User interface.</em>
 </p>
 
-For more detailed information, please look at the thesis.pdf file included in this repository.
+For more detailed information, please look at the thesis.pdf (in Vietnamese) file included in this repository.
