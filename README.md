@@ -54,7 +54,7 @@ The figure below illustrates the module's pipeline for recording patients' pract
 Besides evaluating the patients' performance in real-time, we also want to evaluate them at the end of the move by calculating the accumulated errors and infer the practicing scores. This evaluation will determine whether the movement executed is good enough or not and needs to be executed again. The figure below illustrates how a movement is evaluated based on its accumulated errors.
 
 <p align="center">
-  <img width="300" src="../master/illustrations/error_evaluation.jpg">
+  <img width="300" src="../master/illustrations/error_evaluation.png">
 </p>
 <p align="center">
     <em>Patients' practices evaluating criteria.</em>
@@ -63,7 +63,7 @@ Besides evaluating the patients' performance in real-time, we also want to evalu
 The table below illustrates how well the system evaluates correctly a movement using the described rules.
 
 <p align="center">
-  <img width="500" src="../master/illustrations/evaluation_model.jpg">
+  <img width="500" src="../master/illustrations/evaluation_model.png">
 </p>
 <p align="center">
     <em>Evaluating system's performance on classifying practices correctness.</em>
@@ -73,7 +73,7 @@ The table below illustrates how well the system evaluates correctly a movement u
 To help the patients' with their practices. We develop an AR system to help lead and instruct their limbs movements by showing in real-time the current and next positions their limbs should be. To determine the next limbs position, we utilize the local Dynamic Time Warping approach, where we can detect which stage the users are in and therefore suggest the next limbs position. The users feedback indicates that this feature does improve the experience. The patients don't need to remember what the next movement is (the AR features show it on the screen), so they can focus on executing the moves correctly. The figure below illustrating the AR features in actions.
 
 <p align="center">
-  <img width="500" src="../master/illustrations/ar.png">
+  <img width="300" src="../master/illustrations/ar.png">
 </p>
 
 <p align="center">
