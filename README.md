@@ -7,6 +7,7 @@ Physical therapy is intensely used in medical treatments to help patients regain
 [Figure]
 <p align="center">
   <img width="500" src="../master/illustrations/sample_practices.jpg">
+  <em>image_caption</em>
 </p>
 
 .center[A figure caption.]
