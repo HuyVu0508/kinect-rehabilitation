@@ -10,9 +10,17 @@ Physical therapy is intensely used in medical treatments to help patients regain
   <em>image_caption</em>
 </p>
 
+<p>
+    <em>image_caption</em>
+</p>
+
 .center[A figure caption.]
 
 ![Alt text](../master/illustrations/sample_practices.jpg?raw=true "Title")
+
+<p>
+    <em>image_caption</em>
+</p>
 
 .center[A figure caption.]
 
