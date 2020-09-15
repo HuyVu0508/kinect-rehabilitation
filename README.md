@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Physical therapy is intensely used in medical treatments to help patients regain their movements abilities after injury or operations. It can be considered a safe treatment because it doesn't require injection or having drugs into the body which might potentially cause side effects. In order to practice, patients usually need the supervision from professional therapists who will monitor and give feedback for improvements. This, however, poses a problem, that is patients need the therapists' presence whenever they want to practice, and therefore causing a time and monetary problem. This strictly limits the practices of patients. The figure below illustrates some arms rehabilitation practices used in this work.
+Physical therapy is intensely used in medical treatments to help patients regain their movements abilities after injury or operations. It can be considered a safe treatment for the reason that it doesn't require injection or having drugs into the body which might potentially cause side effects. In order to practice, patients usually need the supervision from professional therapists who will monitor and give feedback for improvements. This, however, poses a problem, that is patients need the therapists' presence whenever they want to practice, and therefore causing a time and monetary problem. This strictly limits the practices of patients. The figure below illustrates some arms rehabilitation practices used in this work.
 
 <p align="center">
   <img width="500" src="../master/illustrations/sample_practices.jpg">
