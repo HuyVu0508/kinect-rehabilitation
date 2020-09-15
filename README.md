@@ -90,7 +90,7 @@ To help the patients' with their practices. We develop an AR system to help lead
 We develop the user interface with the objective for simplicity and informative in mind. Below is our main interface for the system with explanations for each section's functions.
 
 <p align="center">
-  <img width="500" src="../master/illustrations/interface.png">
+  <img width="900" src="../master/illustrations/interface.png">
 </p>
 <p align="center">
     <em>User interface.</em>
