@@ -9,6 +9,8 @@ Physical therapy is intensely used in medical treatments to help patients regain
   <img width="500" src="../master/illustrations/sample_practices.jpg">
 </p>
 
+![Alt text](../master/illustrations/sample_practices.jpg?raw=true "Title")
+
 Therefore, if we can build a home system that can replace the role of the therapist in helping with the rehabilitation process, that would greatly help patients. It will reduce the cost of traveling for both patients and therapists, patients can also practice any time anywhere without the need to match the therapists' busy schedule.
 
 In this work, we propose building a system using Microsoft Kinect to play the role of the therapist in monitoring patients' practices. The system will first record the sample practices from a professional therapist, then use them as gold-standard to compare against patients' practices to check whether the patients have executed the move correctly or not. At the same time, giving instructions and feedback in real-time using AR technology.
