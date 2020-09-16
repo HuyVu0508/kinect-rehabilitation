@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Physical therapy is intensely used in medical treatments to help patients regain their movements abilities after injury or operations. It can be considered a safe treatment because it doesn't require injection or having drugs into the body which might potentially cause side effects. In order to practice, patients usually need the supervision from professional therapists who will monitor and give feedback for improvements. This, however, poses a problem, that is patients need the therapists' presence whenever they want to practice, and therefore causing a time and monetary problem. This strictly limits the practices of patients. The figure below illustrates some arms rehabilitation practices used in this work.
+Physical therapy is intensely used in medical treatments to help patients regain their movements abilities after injury or operations. It can be considered a safe treatment for the reason that it doesn't require injection or having drugs into the body which might potentially cause side effects. In order to practice, patients usually need the supervision from professional therapists who will monitor and give feedback for improvements. This, however, poses a problem, that is patients need the therapists' presence whenever they want to practice, and therefore causing a time and monetary problem. This strictly limits the practices of patients. The figure below illustrates some arms rehabilitation practices used in this work.
 
 <p align="center">
   <img width="500" src="../master/illustrations/sample_practices.jpg">
@@ -54,7 +54,7 @@ The figure below illustrates the module's pipeline for recording patients' pract
 Besides evaluating the patients' performance in real-time, we also want to evaluate them at the end of the move by calculating the accumulated errors and infer the practicing scores. This evaluation will determine whether the movement executed is good enough or not and needs to be executed again. The figure below illustrates how a movement is evaluated based on its accumulated errors.
 
 <p align="center">
-  <img width="300" src="../master/illustrations/error_evaluation.png">
+  <img width="400" src="../master/illustrations/error_evaluation.png">
 </p>
 <p align="center">
     <em>Patients' practices evaluating criteria.</em>
@@ -75,16 +75,25 @@ To help the patients' with their practices. We develop an AR system to help lead
 <p align="center">
   <img width="300" src="../master/illustrations/ar.png">
 </p>
+<p align="center">
+    <em>Augmented reality features for real-time instructions and feedbacks.</em>
+</p>
 
 <p align="center">
   <img width="500" src="../master/illustrations/local_DTW.jpg">
+</p>
+<p align="center">
+    <em>Local dynamic warping algorithm.</em>
 </p>
 
 #### User interface
 We develop the user interface with the objective for simplicity and informative in mind. Below is our main interface for the system with explanations for each section's functions.
 
 <p align="center">
-  <img width="500" src="../master/illustrations/heatmap.png">
+  <img width="900" src="../master/illustrations/interface.png">
+</p>
+<p align="center">
+    <em>User interface.</em>
 </p>
 
-For more detailed information, please look at the thesis.pdf file included in this repository.
+For more detailed information, please look at the thesis.pdf (in Vietnamese) file included in this repository.
